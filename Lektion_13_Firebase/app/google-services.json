@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167079805822",
+    "firebase_url": "https://lektion-13-firebase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lektion-13-firebase",
+    "storage_bucket": "lektion-13-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167079805822:android:3f214061c03cdfecf9692f",
+        "android_client_info": {
+          "package_name": "com.example.lektion_13_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167079805822-7neoho5k2u8045bfl3nib6n1etnr9d61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9PootfEKK6FAHhIacs8svMlDCZHREeCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167079805822-7neoho5k2u8045bfl3nib6n1etnr9d61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
